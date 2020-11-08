@@ -1,0 +1,27 @@
+version: 1.0
+name: zCore
+main: com.zethria.core.Main
+author: Zethria
+description: Potion commands and misc
+commands:
+  Speed:
+    aliases: []
+    description: a potion command for speed
+  Jellylegs:
+    aliases: [jl]
+    description: prevent fall damage
+  Nightvision:
+    aliases: [nv]
+    description: a potion command for nightvision
+  Waterbreathing:
+    aliases: [wb]
+    description: a potion command for water breathing
+  LFF:
+    aliases: []
+    description: broadcast an LFF message
+  Bless:
+    aliases: []
+    description: removes all negative potion effects
+  Poison:
+    aliases: []
+    description: gives poison just for testing

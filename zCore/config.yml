@@ -1,0 +1,29 @@
+########################################
+#       _________                      #
+#_______\_   ___ \  ___________  ____  #
+#\___   /    \  \/ /  _ \_  __ _/ __ \ #
+# /    /\     \___(  <_> |  | \\  ___/ #
+#/_____ \\______  /\____/|__|   \___  >#
+#      \/       \/                  \/ #
+########################################
+
+Settings:
+  Nightvision: 1
+  Speed: 1
+  WaterBreathing: 1
+  Strength: 1
+
+Messages:
+  Prefix: "&8[&azCore&8]" # This is only used for messages without a config option
+  LFF: "&8[&azCore&8] &f%player% &7 is looking for a faction!"
+  Error: "&8[&azCore&8] &cERROR! YOU CANNOT DO THIS!"
+
+Sponges:
+  enabled: true
+  radius: 2
+  
+WorldBorderPearl:
+  enabled: true # if enabled players would not be able to enderpearl outside worldborder
+  
+Portal:
+  enabled: true # If set to true - > Players would not be able to create nor enter portals such as nether / end
